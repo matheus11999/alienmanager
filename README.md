@@ -44,7 +44,7 @@ Gratuito, leve e sem bloatware.
 
 ## Instalação
 
-1. Baixe **AlienManager-Setup.exe** na página de [releases](https://github.com/matheus11999/alienmanager/releases/latest).
+1. Baixe **AlienManager-Setup-x.y.z.exe** na página de [releases](https://github.com/matheus11999/alienmanager/releases/latest).
 2. Execute e clique em **Instalar**. Pronto.
 
 > O Windows pode mostrar o aviso do SmartScreen porque o instalador ainda não tem assinatura de código. Clique em **Mais informações → Executar assim mesmo**.
