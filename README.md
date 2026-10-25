@@ -13,7 +13,7 @@ Gratuito, leve e sem bloatware.
 ![Downloads](https://img.shields.io/github/downloads/matheus11999/alienmanager/total?color=1fd6a0)
 ![Preço](https://img.shields.io/badge/pre%C3%A7o-gr%C3%A1tis-b6ff6b)
 
-<img src="docs/screenshots/painel.png" alt="Painel do Alien Manager" width="900" />
+<img src="docs/capturas/painel.png" alt="Painel do Alien Manager" width="900" />
 
 </div>
 
@@ -36,23 +36,23 @@ Gratuito, leve e sem bloatware.
 
 <div align="center">
 <b>Ranking da comunidade</b><br />
-<img src="docs/screenshots/benchmarks.png" width="900" />
+<img src="docs/capturas/benchmarks.png" width="900" />
 </div>
 
 | Gráfico por notebook | Comparação lado a lado |
 |:-:|:-:|
-| <img src="docs/screenshots/bench-grafico.png" width="440" /> | <img src="docs/screenshots/bench-comparar.png" width="440" /> |
+| <img src="docs/capturas/bench-grafico.png" width="440" /> | <img src="docs/capturas/bench-comparar.png" width="440" /> |
 | **Ventoinhas** | **Sensores** |
-| <img src="docs/screenshots/ventoinhas.png" width="440" /> | <img src="docs/screenshots/sensores.png" width="440" /> |
+| <img src="docs/capturas/ventoinhas.png" width="440" /> | <img src="docs/capturas/sensores.png" width="440" /> |
 | **Perfis** | **Iluminação** |
-| <img src="docs/screenshots/perfis.png" width="440" /> | <img src="docs/screenshots/iluminacao.png" width="440" /> |
+| <img src="docs/capturas/perfis.png" width="440" /> | <img src="docs/capturas/iluminacao.png" width="440" /> |
 | **Overlay** | **Configurações** |
-| <img src="docs/screenshots/overlay-config.png" width="440" /> | <img src="docs/screenshots/config.png" width="440" /> |
+| <img src="docs/capturas/overlay-config.png" width="440" /> | <img src="docs/capturas/config.png" width="440" /> |
 
 <table>
   <tr>
-    <td align="center"><b>Overlay em jogo</b><br /><img src="docs/screenshots/overlay.png" width="260" /></td>
-    <td align="center"><b>Aviso de troca de modo</b><br /><img src="docs/screenshots/hud.png" width="340" /><br /><br /><b>Instalador</b><br /><img src="docs/screenshots/instalador.png" width="380" /></td>
+    <td align="center"><b>Overlay em jogo</b><br /><img src="docs/capturas/overlay.png" width="260" /></td>
+    <td align="center"><b>Aviso de troca de modo</b><br /><img src="docs/capturas/hud.png" width="340" /><br /><br /><b>Instalador</b><br /><img src="docs/capturas/instalador.png" width="380" /></td>
   </tr>
 </table>
 
